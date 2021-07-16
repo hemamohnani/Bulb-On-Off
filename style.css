@@ -1,0 +1,18 @@
+button {
+    display: inline-block;
+    background: #f8b627;
+    color: #201d1d;
+    font-size: 16px;
+    font-weight: normal;
+    text-align: center;
+    border-radius: 3px;
+    transition: 400ms;
+    text-decoration: none;
+    padding: 10px;
+    z-index: 100000;
+}
+
+.main-heading h2{
+    margin-bottom: 20px;
+    align-items: center;
+}
